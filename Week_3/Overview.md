@@ -1,0 +1,2 @@
+# How I went about week three.
+* This week was relatively strait forward, I made two web forms that serve as a static login page, The PHP and ASP.NET work the same way, the user enters his/hers info and that info is displayed on screen. The only difference between the two is that the PHP sends the info to the info.php file while the ASP file displays the info to the front end of the "site". Very simple and horribly styled. For that I do apologize, reason being that almost all my time this week was devoted to finishing up the Zombie Thoughts project for the Rep Theatre.  
