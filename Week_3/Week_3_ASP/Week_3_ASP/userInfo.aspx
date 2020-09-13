@@ -25,8 +25,6 @@
             <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
             <br />
             <asp:Button ID="btnSubmit" runat="server" Text="Submit" OnClick="btnSubmit_Click" BorderColor="#FF0066" />
-
-
         </div>
     </form>
 </body>
