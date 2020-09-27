@@ -62,7 +62,7 @@
                 </tr>
                 <tr>
                     <td colspan="2" align="center">
-                           <input id="Button1" type="submit" value="Register!" style="font-weight: bold; height: 46px; width: 162px;" />
+                        <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click1" />
                     </td>
                  
                 </tr>
